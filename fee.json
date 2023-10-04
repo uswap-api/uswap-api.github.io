@@ -1,5 +1,5 @@
 {
-    "FEE": 0.0023,
-    "REWARD": 0.0022,
-    "SPLIT": 0.25
+    "BASE_FEE": 0.001,
+    "MIN_BASE_FEE": 0.0005,
+    "DIFF_COEFFICIENT": 0.005
 }
