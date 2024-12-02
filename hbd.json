@@ -1,1 +1,6 @@
-
+{
+    "BASE_FEE": 0.002,
+    "MIN_BASE_FEE": 0.00075,
+    "DIFF_COEFFICIENT": 0.00575,
+    "BASE_PRICE_HBD_TO_SHBD": 1.00
+}
